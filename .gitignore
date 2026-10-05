@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.bak
+test_report.txt
+test_doc_report.txt
+*.rar
+*.exe
+*.pdf
